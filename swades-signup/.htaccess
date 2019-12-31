@@ -1,0 +1,8 @@
+ErrorDocument 400 /errorpages/400.php
+ErrorDocument 401 /errorpages/400.php
+ErrorDocument 403 /errorpages/400.php
+ErrorDocument 500 /errorpages/400.php
+ErrorDocument 404 /errorpages/400.php
+
+
+IndexIgnore *

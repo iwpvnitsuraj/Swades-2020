@@ -1,0 +1,21 @@
+/*.well{*/
+   background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(45deg,purple,blue ); /* Standard syntax (must be last) */
+/*    display:flex;*/
+/*     padding:10px;*/
+/*     position:relative !important;*/
+/*}*/
+
+/*.form-group{*/
+/*    flex:30%;*/
+/*    margin:20px;*/
+/*   }*/
+
+/*.right{*/
+/*    position:absolute;*/
+/*    right:20px;*/
+/*}*/
+
+/*.well2{*/
+/*    background-image: linear-gradient(45deg,lightgreen,yellow );*/
+/*}*/
