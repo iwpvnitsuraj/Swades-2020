@@ -138,7 +138,7 @@
 				<h2>PRIZES WORTH <span><i class="fa fa-inr" aria-hidden="true"></i></span> 1 Lac</h2>
 			</div>
 			<div class="registerbtn">
-				<button type="button">Register Now <span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></button>
+				<button type="button"><a href="../swades-signup/index.php" style="text-decoration:none;color:white;">register now</a><span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></button>
 			</div>
 		</div>
 	</section>
